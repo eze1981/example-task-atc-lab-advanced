@@ -1,1 +1,1 @@
-# example-task-atc-lab-advanced
+# Virtual Lab - Example task for the ATC Lab Advanced
